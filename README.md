@@ -3,7 +3,7 @@ Just an ERC20 token with [Solmate's ERC20 implementation](https://github.com/Rar
 # Setup
 ### Clone
 ```bash
-git clone this
+git clone https://github.com/ZeroEkkusu/erc20-brownie
 ```
 ### Prerequisites
 - [nodejs and npm](https://nodejs.org/en/download/)
