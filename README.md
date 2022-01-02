@@ -1,5 +1,5 @@
 # About
-Just a ERC20 token with [Solmate's ERC20 implementation](https://github.com/Rari-Capital/solmate/blob/main/src/tokens/ERC20.sol).
+Just an ERC20 token with [Solmate's ERC20 implementation](https://github.com/Rari-Capital/solmate/blob/main/src/tokens/ERC20.sol).
 # Setup
 ### Clone
 ```bash
