@@ -1,0 +1,8 @@
+networks:
+  rinkeby:
+    verify: True
+
+wallets:
+  from_key: ${PRIVATE_KEY}
+
+dotenv: .env
